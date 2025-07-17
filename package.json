@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "whatif-webreplayer",
   "version": "0.1.0",
   "private": true,
@@ -45,5 +46,9 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.7",
     "tailwindcss": "^3.4.17"
+=======
+  "dependencies": {
+    "framer-motion": "^12.23.6"
+>>>>>>> 36285a9460cc41aae11748cbc86de356162fae90
   }
 }
